@@ -39,9 +39,6 @@ class Window implements ActionListener{
 		String sorting_algorithms[] = {
 			"bubble sort",
 			"quick sort",
-			"insertion sort",
-			"selection sort",
-			"merge sort"
 		};
 
 		list = new JComboBox(sorting_algorithms);
